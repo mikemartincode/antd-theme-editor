@@ -1,3 +1,6 @@
+
+These are personal changes I forked to make to the theme editor. These changes are most likely outdated and the original project is from minheq.
+
 # Ant Design Theme Editor
 
 Boilerplate to render [Ant Design](https://ant.design/) components into [Storybook](https://storybook.js.org/), so you can easily edit the theme
